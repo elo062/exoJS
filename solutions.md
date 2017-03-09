@@ -1,3 +1,4 @@
+```javascript
 //REVISIONS
 // Declarez une variable nommée "boucler" contenant true
 var boucler = true
@@ -53,3 +54,6 @@ document.getElementById("check").addEventListener("click",function(){
 
 
 // FIN COURS AJAX
+
+
+```
